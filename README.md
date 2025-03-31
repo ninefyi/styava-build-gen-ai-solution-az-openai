@@ -9,3 +9,7 @@ AZURE_OPENAI_API_VERSION="2024-02-01"
 MONGODB_ATLAS_CLUSTER_URI="mongodb+srv://"
 
 ```
+
+```sh
+pip install gradio python-dotenv pymongo langchain-mongodb langchain-openai
+```
